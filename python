@@ -1,0 +1,5 @@
+print("hello my first python program")
+a=int(input("first number=")
+b=int(input("Second number=")
+sum=a+b
+print("sum=",sum)
